@@ -12,6 +12,9 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;&nbsp;
+    <a href="https://github.com/Mazen-73/Tasbeeh/stargazers">
+ <img src="https://m3-markdown-badges.vercel.app/stars/3/3/Mazen-73/Tasbeeh">
+  </a>
 </p>
 
 تطبيق **تسبيح** هو رفيقك اليومي لأداء الأذكار بكل سهولة وراحة. تم بناء التطبيق باستخدام **Material Design 3 Expressive**، ليقدم واجهة عصرية، هادئة، ومريحة للعين مع رسوم متحركة انسيابية.
@@ -28,6 +31,15 @@
 1. **واجهة هادئة:** تصميم صُمم خصيصاً لتقليل إجهاد العين والمساعدة على التركيز في الأذكار.
 2. **دقة عالية:** تم تطوير نظام العد لضمان تسجيل كل ضغطة بدقة.
 3. **تحديثات مستمرة:** إضافة ميزات جديدة وتحسينات دورية.
+
+## ⭐ دعم المشروع
+إذا أعجبك تطبيق **Tasbeeh** أو وجدت فيه فائدة، لا تتردد في دعم المشروع بوضع نجمة (Star)! هذا يساعد في انتشار المشروع ويشجعني على إضافة المزيد من الميزات والتحسينات.
+
+<p align="center">
+   <a href="https://github.com/Mazen-73/Tasbeeh/stargazers">
+     <img src="https://m3-markdown-badges.vercel.app/stars/3/3/Mazen-73/Tasbeeh">
+   </a>
+</p>
 
 ## 🛠 الأدوات والمكتبات
 * **لغة البرمجة:** Kotlin.
